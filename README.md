@@ -8,3 +8,12 @@ Projeto PROFFY - Plataforma para ensino online.
 Início 03/08/2020 - Término 09/08/2020
 
 Utilização de HTML, CSS e Javascript.
+
+página downliad node: https://nodejs.org/en/
+
+Dependencias: 
+ npm install express
+ npm install nunjucks
+ 
+Dependencias dev:
+ npm install nodemon
